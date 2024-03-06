@@ -3,7 +3,7 @@
 from pydoc_data import topics
 from altair import Cursor
 from click import group
-from sympy import limit, per
+from sympy import im, li, limit, per
 from wikirate4py import API
 api = API('jkcH51HWiSWnz5BGHTszrwtt')
 company = api.get_company(7217) # returns company given company's numeric identifier
@@ -49,6 +49,7 @@ metric_id
 # %%
 from wikirate4py import Cursor
 from wikirate4py import API
+import json
 api = API('jkcH51HWiSWnz5BGHTszrwtt')
 company = api.get_company(7217) # returns company given company's numeric identifier
 company.name
@@ -59,6 +60,8 @@ while cursor.has_next():
     answers =[]
     for metric in metrics:
         answers.extend(api.get_answers(metric.id, company_id=7217))
+        with open('answers.json', 'w') as f:
+            json.dump(answers, f)
 # %%
 answers.json()
 # %%
@@ -143,4 +146,22 @@ while cursor.has_next():
 # Now that all MetricItems are converted to dictionaries, we can safely serialize
 with open('metrics1.json', 'w') as f:
     json.dump(metrics, f)
+# %%
+from wikirate4py import Cursor
+from wikirate4py import API
+api = API('jkcH51HWiSWnz5BGHTszrwtt')
+company = api.get_company(7217) # returns company given company's numeric identifier
+company.name
+cursor = Cursor(api.get_metrics, wikirate_topic=["SDG5: Gender Equality", "SDG13: Climate Action"], metric_type="Researched", per_page=100) # returns metric given metric's numeric identifier
+metrics = []
+while cursor.has_next():
+    metrics.extend(cursor.next())
+    answers =[]
+    for metric in metrics:
+        temp = (api.get_answers(metric.id, company_id=7217, limit=100))
+        for entry in temp:
+            answers.append(entry.json())
+with open('answers1.json', 'w') as f:
+    json.dump(answers, f)
+answers
 # %%
