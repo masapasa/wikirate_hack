@@ -1,0 +1,218 @@
+[
+    {
+        "id": 837241,
+        "name": "Female employees, GRI 102-8-a (formerly G4-10-a)"
+    },
+    {
+        "id": 3447767,
+        "name": "Female workers' pay (as a percentage of male workers' pay)"
+    },
+    {
+        "id": 836314,
+        "name": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)"
+    },
+    {
+        "id": 837335,
+        "name": "Average hours of training (female), GRI 404-1 (formerly G4-LA9)"
+    },
+    {
+        "id": 837320,
+        "name": "Average hours of training, GRI 404-1 (formerly G4-LA9)"
+    },
+    {
+        "id": 828453,
+        "name": "Employees according to gender (G4-LA12)"
+    },
+    {
+        "id": 837376,
+        "name": "Average hours of training (male), GRI 404-1 (formerly G4-LA9)"
+    },
+    {
+        "id": 2311236,
+        "name": "Employees Entitled to Parental Leave, GRI 401-3-a (formerly G4-LA3-a)"
+    },
+    {
+        "id": 5358814,
+        "name": "Women on Board"
+    },
+    {
+        "id": 2311316,
+        "name": "Employees that Took Parental Leave, GRI 401-3-b (formerly G4-LA3-b)"
+    },
+    {
+        "id": 2311380,
+        "name": "Employees Returned after Parental Leave, GRI 401-3-c (formerly G4-LA3-c)"
+    },
+    {
+        "id": 3193616,
+        "name": "CEO Gender"
+    },
+    {
+        "id": 900299,
+        "name": "Average female remuneration for lowest-paid category (G4-LA13-a)"
+    },
+    {
+        "id": 900276,
+        "name": "Average Male Remuneration Highest-Paid Category (G4-LA13-a)"
+    },
+    {
+        "id": 837273,
+        "name": "Rate of employee turn over GRI 401-1 (G4-LA1-b)"
+    },
+    {
+        "id": 813420,
+        "name": "Ratio of entry-level wage to local minimum-wage by gender, GRI 202 (G4-EC5)"
+    },
+    {
+        "id": 836066,
+        "name": "Female-to-Male basic salary ratio (G4-LA13-a)"
+    },
+    {
+        "id": 1830337,
+        "name": "Women in Unskilled Positions"
+    },
+    {
+        "id": 6966022,
+        "name": "Gender Equality Targets"
+    },
+    {
+        "id": 2347634,
+        "name": "SDG5 (Gender Equality) Activities"
+    },
+    {
+        "id": 12631591,
+        "name": "Women on Board"
+    },
+    {
+        "id": 8674635,
+        "name": "Median Gender Pay Gap (Hourly Pay)"
+    },
+    {
+        "id": 3453141,
+        "name": "Mean Gender Pay Gap (Hourly Pay)"
+    },
+    {
+        "id": 8674683,
+        "name": "Percentage Receiving Bonus Pay (Female)"
+    },
+    {
+        "id": 8674786,
+        "name": "Employer Size"
+    },
+    {
+        "id": 8674646,
+        "name": "Mean Gender Pay Gap (Bonus Pay)"
+    },
+    {
+        "id": 8674775,
+        "name": "Percentage Top Pay Quartile (Female)"
+    },
+    {
+        "id": 8674661,
+        "name": "Median Gender Pay Gap (Bonus Pay)"
+    },
+    {
+        "id": 8674672,
+        "name": "Percentage Receiving Bonus Pay (Male)"
+    },
+    {
+        "id": 2896323,
+        "name": "Social screening of new suppliers, GRI 414-1 (G4-SO9-a)"
+    },
+    {
+        "id": 12773481,
+        "name": "Gender Equality Policy"
+    },
+    {
+        "id": 900309,
+        "name": "Average Female Remuneration Highest-Paid Category (G4-LA13-a)"
+    },
+    {
+        "id": 1830146,
+        "name": "Access to Childcare Services"
+    },
+    {
+        "id": 1830318,
+        "name": "Percentage of Women in Skilled Positions (non-managerial)"
+    },
+    {
+        "id": 2896353,
+        "name": "Suppliers with potential negative social impacts, GRI 414-2-b2 (formerly G4-SO10-b2)"
+    },
+    {
+        "id": 1837379,
+        "name": "Pregnancy and maternity rights policies (G3-AF27)"
+    },
+    {
+        "id": 1830379,
+        "name": "Equal Opportunities Promotion"
+    },
+    {
+        "id": 2621098,
+        "name": "SDG5 (Gender Equality) Actions"
+    },
+    {
+        "id": 2768998,
+        "name": "Female Percentage"
+    },
+    {
+        "id": 3213383,
+        "name": "percentage of women within the board of director"
+    },
+    {
+        "id": 3214398,
+        "name": "Gender equality"
+    },
+    {
+        "id": 3215292,
+        "name": "Women in executive committees"
+    },
+    {
+        "id": 5629440,
+        "name": "Female workers' pay (as a percentage of male workers' pay)"
+    },
+    {
+        "id": 900284,
+        "name": "Average male remuneration for lowest-paid category (G4-LA13-a)"
+    },
+    {
+        "id": 8674764,
+        "name": "Percentage Top Pay Quartile (Male)"
+    },
+    {
+        "id": 2896334,
+        "name": "Suppliers assessed for social impact, GRI 414-2-a (formerly G4-SO10-a)"
+    },
+    {
+        "id": 2896344,
+        "name": "Suppliers with actual negative social impacts, GRI 414-2-b1 (formerly G4-SO10-b1)"
+    },
+    {
+        "id": 2312212,
+        "name": "Company Pledge Depth - SDG5"
+    },
+    {
+        "id": 8674694,
+        "name": "Percentage Lower Pay Quartile (Male)"
+    },
+    {
+        "id": 8674705,
+        "name": "Percentage Lower Pay Quartile (Female)"
+    },
+    {
+        "id": 8674716,
+        "name": "Percentage Lower Middle Pay Quartile (Male)"
+    },
+    {
+        "id": 8674727,
+        "name": "Percentage Lower Middle Pay Quartile (Female)"
+    },
+    {
+        "id": 8674742,
+        "name": "Percentage Upper Middle Pay Quartile (Male)"
+    },
+    {
+        "id": 8674753,
+        "name": "Percentage Upper Middle Pay Quartile (Female)"
+    }
+]
